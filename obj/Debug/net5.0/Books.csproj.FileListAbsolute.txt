@@ -1,0 +1,16 @@
+E:\dio\decolaTech\series\bin\Debug\net5.0\Books.exe
+E:\dio\decolaTech\series\bin\Debug\net5.0\Books.deps.json
+E:\dio\decolaTech\series\bin\Debug\net5.0\Books.runtimeconfig.json
+E:\dio\decolaTech\series\bin\Debug\net5.0\Books.runtimeconfig.dev.json
+E:\dio\decolaTech\series\bin\Debug\net5.0\Books.dll
+E:\dio\decolaTech\series\bin\Debug\net5.0\ref\Books.dll
+E:\dio\decolaTech\series\bin\Debug\net5.0\Books.pdb
+E:\dio\decolaTech\series\obj\Debug\net5.0\Books.csproj.AssemblyReference.cache
+E:\dio\decolaTech\series\obj\Debug\net5.0\Books.GeneratedMSBuildEditorConfig.editorconfig
+E:\dio\decolaTech\series\obj\Debug\net5.0\Books.AssemblyInfoInputs.cache
+E:\dio\decolaTech\series\obj\Debug\net5.0\Books.AssemblyInfo.cs
+E:\dio\decolaTech\series\obj\Debug\net5.0\Books.csproj.CoreCompileInputs.cache
+E:\dio\decolaTech\series\obj\Debug\net5.0\Books.dll
+E:\dio\decolaTech\series\obj\Debug\net5.0\ref\Books.dll
+E:\dio\decolaTech\series\obj\Debug\net5.0\Books.pdb
+E:\dio\decolaTech\series\obj\Debug\net5.0\Books.genruntimeconfig.cache

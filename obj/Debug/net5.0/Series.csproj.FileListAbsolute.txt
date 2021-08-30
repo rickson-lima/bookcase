@@ -1,0 +1,16 @@
+E:\dio\decolaTech\series\bin\Debug\net5.0\Series.exe
+E:\dio\decolaTech\series\bin\Debug\net5.0\Series.deps.json
+E:\dio\decolaTech\series\bin\Debug\net5.0\Series.runtimeconfig.json
+E:\dio\decolaTech\series\bin\Debug\net5.0\Series.runtimeconfig.dev.json
+E:\dio\decolaTech\series\bin\Debug\net5.0\Series.dll
+E:\dio\decolaTech\series\bin\Debug\net5.0\ref\Series.dll
+E:\dio\decolaTech\series\bin\Debug\net5.0\Series.pdb
+E:\dio\decolaTech\series\obj\Debug\net5.0\Series.csproj.AssemblyReference.cache
+E:\dio\decolaTech\series\obj\Debug\net5.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\dio\decolaTech\series\obj\Debug\net5.0\Series.AssemblyInfoInputs.cache
+E:\dio\decolaTech\series\obj\Debug\net5.0\Series.AssemblyInfo.cs
+E:\dio\decolaTech\series\obj\Debug\net5.0\Series.csproj.CoreCompileInputs.cache
+E:\dio\decolaTech\series\obj\Debug\net5.0\Series.dll
+E:\dio\decolaTech\series\obj\Debug\net5.0\ref\Series.dll
+E:\dio\decolaTech\series\obj\Debug\net5.0\Series.pdb
+E:\dio\decolaTech\series\obj\Debug\net5.0\Series.genruntimeconfig.cache
